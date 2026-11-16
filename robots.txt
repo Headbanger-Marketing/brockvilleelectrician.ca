@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brockvilleelectrician.ca/sitemap-index.xml
